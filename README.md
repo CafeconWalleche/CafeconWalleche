@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CafeconWalleche
+- 👋 Hi, I’m @theknightsofni
 - I’m interested in learning fintech and crypto, and launch a new career
 - I’m currently learning Python, SQL, and Solidity.
 - I’m looking to collaborate on smart contracts and financial modelling data
